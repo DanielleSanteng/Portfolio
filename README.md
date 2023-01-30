@@ -10,7 +10,7 @@ For my master's final project, I used 3 different machine learning algorithms to
 * Algortithms used were: Decision Tree, Random Forest and Bag of Words 
 * Attempt to further differentiate between 'bad' and 'good' bots as bad bots are ones that should be flagged for removal
 
-**Video presentation for this project can be viewed and downloaded here(https://github.com/DanielleSanteng/Portfolio/blob/main/Bot%20Detection%20Presentation.mp4)**
+**[Video presentation for this project can be viewed and downloaded here](https://github.com/DanielleSanteng/Portfolio/blob/main/Bot%20Detection%20Presentation.mp4)**
 
 # [Project 2: SQL Queries](https://github.com/DanielleSanteng/Portfolio/blob/main/SQL%20Queries.sql)
 
